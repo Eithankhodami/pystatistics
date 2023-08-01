@@ -30,18 +30,20 @@ np.mean()
 
 Lets have an example of creating a set of as a list and then calculating the mean using the numpy library.
 
-```
+```python
 import numpy as np
 x = [1,2,3,4,5,6,7,8,9,10]         #this is a list with 10 numbers
 np.mean(x)
 ```
-<h3><span style="color: #ff0000;">if you do not have an idea how the list is working</span></h3> [Follow the link](list.md)
+<h3><span style="color: #ff0000;">if you do not have an idea how the list is working</span></h3> 
+
+[Follow the link for more about lists](list.md)
 
 The result is <b><span style="color:green"> 5.5 </span></b>
 
 now lets try to calculate the mean of the first 5 numbers in the list.
 
-```
+```python
 import numpy as np
 x = [1,2,3,4,5,6,7,8,9,10]
 np.mean(x[:5])
@@ -50,9 +52,11 @@ The result is <b><span style="color:green"> 3.0 </span></b>
 
 Now lets try to calculate the mean of the last 5 numbers in the list.
 
-```
+```python
 import numpy as np
 x = [1,2,3,4,5,6,7,8,9,10]
 np.mean(x[5:])
 ```
 The result is <b><span style="color:green"> 8.0 </span></b>
+
+code for this calculation is saved in the file [mean.py](mean.py)
