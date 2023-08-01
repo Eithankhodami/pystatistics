@@ -1,4 +1,3 @@
-Here is the syllabus in Markdown format:
 
 # Statistics with Python Syllabus
 
