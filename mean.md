@@ -1,5 +1,9 @@
 # Calculating the mean
 
+<hr>
+code for this calculation is saved in the file [mean.py](code/mean.py)
+<hr>
+
 The mean is the average of the numbers. It is easy to calculate: add up all the numbers, then divide by how many numbers there are. In other words it is the sum divided by the count.
 
 the formula for calculating the mean is:
@@ -58,5 +62,3 @@ x = [1,2,3,4,5,6,7,8,9,10]
 np.mean(x[5:])
 ```
 The result is <b><span style="color:green"> 8.0 </span></b>
-
-code for this calculation is saved in the file [mean.py](code/mean.py)
