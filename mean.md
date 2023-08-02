@@ -59,4 +59,4 @@ np.mean(x[5:])
 ```
 The result is <b><span style="color:green"> 8.0 </span></b>
 
-code for this calculation is saved in the file [mean.py](mean.py)
+code for this calculation is saved in the file [mean.py](code/mean.py)

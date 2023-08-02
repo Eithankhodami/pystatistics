@@ -2,6 +2,19 @@ Here is the syllabus in Markdown format:
 
 # Statistics with Python Syllabus
 
+## Course Description
+This course will introduce you to the fundamental concepts of statistics, including descriptive statistics, probability, inferential statistics, and regression. You will learn how to use Python to implement these concepts in practice.
+
+<font color="red">
+
+**Important note:** 
+Important update:
+This course is just started to be produced, so it is not complete. You may come back later to check it out.
+
+**updated on 2023-08-02**
+</font>
+
+
 ## Getting Started with Python
 - Basic data types (numbers, strings, booleans, [lists](list.md), dictionaries)
 - Variables and assignment  
@@ -71,3 +84,7 @@ Here is the syllabus in Markdown format:
 - Markov Chain Monte Carlo
 - Dimensionality reduction
 - K-means clustering
+
+## Extras
+
+- <font color='red'> **updated** </font> [Matplot lib and Seaborn basics pratice and code](visualization.md)

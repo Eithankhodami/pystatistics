@@ -1,5 +1,9 @@
 # Visualizing
 
+<hr>
+### Python Code using Jupyter is [here](code/visualizing.ipynb)
+
+<hr>
 #### goal of visualizing using python
 
 - to understand the data
